@@ -25,3 +25,4 @@ Samvaad / Chat App project is a real-time messaging application built using the 
 ## Screenshots
 
 ![Image](https://github.com/user-attachments/assets/5e459de9-5a4b-4a03-9db5-627ca350b655)
+![Image](https://github.com/user-attachments/assets/872d339b-a67e-4c3e-a8cd-2c55a570ce5e)
