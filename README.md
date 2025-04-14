@@ -1,9 +1,5 @@
-<h1 style="display: flex; justify-content: space-between; align-items: center;">
-  Chat App
-  <small><a href="https://chat-app-3-zw9q.onrender.com" target="_blank">visit site here</a></small>
-</h1>
-
-
+# Chat App 
+[Visit Website Here](https://chat-app-3-zw9q.onrender.com) 
 
 Samvaad / Chat App project is a real-time messaging application built using the MERN stack (MongoDB, Express, React, Node.js) with Socket.io for instant communication. It features a modern UI designed with TailwindCSS and Daisy UI, ensuring a sleek and responsive user experience.
 <br>
